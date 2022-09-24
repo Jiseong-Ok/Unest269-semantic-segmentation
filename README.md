@@ -3,6 +3,11 @@ Semantic segmentation with Unest269(Unet+Resnest269)
 
 <img src="./unest269.png" height="400px" width="600px">
 
+</br>
+[Segmentation.pdf](./Project2-Segmentation.pdf)
+</br>
+
+
 My work
 ---------------------------------------------------------------------
 - Replace backbone(ResneXt50 -> ResneSt269)

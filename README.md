@@ -5,7 +5,7 @@ Semantic segmentation with Unest269(Unet+Resnest269)
 
 </br>
 [Segmentation.pdf](./Project2-Segmentation.pdf)
-</br>
+
 
 
 My work
